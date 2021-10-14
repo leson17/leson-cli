@@ -1,0 +1,20 @@
+{
+    "templates": {
+        "leson-manage": {
+            "url": "https://github.com/leson17/leson-manage.git",
+            "branch": "master"
+        },
+        "leson-web": {
+            "url": "https://github.com/leson17/leson-web.git",
+            "branch": "master"
+        },
+        "leson-mobile": {
+            "url": "https://github.com/leson17/leson-mobile.git",
+            "branch": "master"
+        },
+        "leson-npm-dev": {
+            "url": "https://github.com/leson17/leson-npm-dev.git",
+            "branch": "master"
+        }
+    }
+}
