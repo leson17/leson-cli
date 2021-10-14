@@ -18,7 +18,7 @@ module.exports = () => {
     let branch;
     clear();
     // 定制酷炫CLI头部
-    console.log(chalk.yellow(figlet.textSync('XMAN-CLI', {
+    console.log(chalk.yellow(figlet.textSync('LESON-CLI', {
         horizontalLayout: 'full'
     })));
     inquirer.prompt([
